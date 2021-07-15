@@ -4,3 +4,4 @@ Olá! Bem-vinde ao meu livro de receitas.
 
 Receitas 
 * latkes
+* pave
